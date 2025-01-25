@@ -1,0 +1,57 @@
+body {
+  background-color: darkblue;
+}
+
+header {
+  background-color: white;
+  text-align: center;
+  padding: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+hr {
+  margin-top: -20px;
+}
+
+h2 {
+  font-family: 'Times New Roman';
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Times New Roman';
+  font-size: 17px;
+  text-indent: 22px;
+  color: white;
+}
+
+fieldset {
+  border-color: cyan;
+  background-color: silver;
+}
+
+legend {
+  color: blue;
+  font-family: Georgia;
+  background-color: white;
+}
+
+label {
+  color: green;
+  font-family: Monospace;
+  font-size: 17px;
+}
+
+ input[type=submit] {
+  background-color: white;
+  font-family: Georgia;
+  padding: 4px;
+  text-align: center;
+}
+
+input,select{
+  border-color: lightgreen;
+}
